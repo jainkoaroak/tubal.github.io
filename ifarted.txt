@@ -48,10 +48,5 @@
     "3B5wuUrMEi5yATD7on46hKfej3pfmd7t1RKgrsN3pump",
     "Fair3oKKbcrGjcka2tTYQdyS6sYnyyQqbCTTiNmE3WHK",
     "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
-    "BoAQaykj3LtkM2Brevc7cQcRAzpqcsP47nJ2rkyopump",
-    "CUzSRjBvqFFq45mg6j9oyQrDxyUTHEKM2xqKzDkZpump",
-    "FqnqT1GKi8S4Gyk5wnSKvJjXW48HqGtKJt9WS4o2pump",
-    "4qNX615pV1oufdodNoiBzUsrUE3ww57DYg6LsUtupump"
-    "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
     "HeJUFDxfJSzYFUuHLxkMqCgytU31G6mjP4wKviwqpump",
 ]
